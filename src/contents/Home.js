@@ -34,7 +34,6 @@ class Home extends Component {
         />
         <h1>My name is Tijani Fulani</h1>
         <h2>I am a Software Developer</h2>
-        <Social />
       </div>
     );
   }
