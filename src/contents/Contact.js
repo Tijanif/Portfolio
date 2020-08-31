@@ -12,7 +12,7 @@ class Contact extends Component {
         </h3>
         <h3>
           <a href={cv} target="_blank" rel="noopener noreferrer">
-            Check out my CV.
+            Check out my CV
           </a>
         </h3>
         <Social />
